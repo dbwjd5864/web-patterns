@@ -1,0 +1,10 @@
+{
+  "name": "web-patterns",
+  "version": "1.0.0",
+  "repository": "git@github.com-personal:dbwjd5864/web-patterns.git",
+  "author": "yujeongChoung <yj.choung@socialinvestinglab.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
